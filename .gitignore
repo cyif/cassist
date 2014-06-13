@@ -1,0 +1,50 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+*.dSYM
+
+# Icon must ends with two \r.
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.lib
+*.a
+tmp.cpp
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+test.c
+test.*
+*.swp
+tmp.*
+test
+CA
+
+# Executables
+*.ERR
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+CAnalyser/*
+*.tmp
